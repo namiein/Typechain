@@ -1,9 +1,9 @@
 {
-  "name": "Typechain",
-  "version": "1.0.0",
-  "description": "Typechain",
-  "main": "index.js",
-  "repository": "https://github.com/namiein/Typechain",
-  "author": "Gayoung Kim<namiein@naver.com>",
-  "license": "MIT"
+    "name": "Typechain",
+    "version": "1.0.0",
+    "description": "Typechain",
+    "main": "index.js",
+    "repository": "https://github.com/namiein/Typechain",
+    "author": "Gayoung Kim<namiein@naver.com>",
+    "license": "MIT"
 }
