@@ -1,0 +1,15 @@
+// in order to use node.js normally
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        // version of javascript to be compiled to
+        "target": "ES2015",
+        "sourceMap": true,
+        // compile된 부분은 dist로
+        "outDir": "dist"
+    },
+    // code는 src안으로
+    "include": ["src/**/*"],
+    // node_modules == dependencies
+    "exclude": ["node_modules"]
+}
